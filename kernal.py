@@ -1,4 +1,4 @@
-# Name: KernelInterpolationWithBarriers_Example_02.py
+# Name: kernal.py
 # Description: Kernel Interpolation with Barriers is a moving window predictor
 #   that uses non-Euclidean distances.
 # Requirements: Geostatistical Analyst Extension
